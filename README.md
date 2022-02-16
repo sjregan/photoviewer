@@ -121,3 +121,9 @@ PhotoViewer.show('http://my_site.com/my_image.jpg', 'Optional Title', options);
 - Update Picasso Library to 2.71828
 - Fixed Picasso Bug
 - Thanks to @TdoubleG
+
+(1.2.6)
+- Removed jcenter repo
+- Support for new versions of Gradle
+
+
